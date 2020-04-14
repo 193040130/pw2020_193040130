@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: palevioletred;
+    
+}
+
+/* Navbar */
+.navbar{
+	position: relative;
+    z-index: 1;
+}
+
+.navbar-brand{
+	font-family: font-family: 'Teko', sans-serif;;
+    font-size: 32px;
+    color: ;
+}
+
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-body p{
+    text-align: center;
+    color: palevioletred;
+}
+.card-img-top{
+    width: 100%;
+}
+
